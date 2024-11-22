@@ -20,6 +20,11 @@
 
 - 📫 How to reach me **tharukawickramaarachchci@gmail.com**
 
+- ------
+<br/>  
+<br/> 
+
+
 ## My Skill Set 👩‍💻
 
 <table><tr><td valign="top" width="33%">
