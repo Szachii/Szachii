@@ -11,8 +11,6 @@
 
 ------
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=szachii&label=Profile%20views&color=0e75b6&style=flat" alt="szachii" /> </p>
-
 - 🔭 I’m currently working on **Public transport booking system**
 
 - 🌱 I’m currently learning **React, Node.js, MongoDB, Express.js**
