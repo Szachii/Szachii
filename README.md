@@ -1,3 +1,9 @@
+<div align="center">
+<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% " />
+</div>  
+ <br/>
+
+
 <h1 align="center">Hi, I'm Tharuka Wickramaarachchi</h1>
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 
