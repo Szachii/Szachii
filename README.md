@@ -5,8 +5,10 @@
 
 
 <h1 align="center">Hi, I'm Tharuka Wickramaarachchi</h1>
-------
+
 <h3 align="center">A innovative fullstack developer | Animator | 3D Modler</h3>
+
+------
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szachii&label=Profile%20views&color=0e75b6&style=flat" alt="szachii" /> </p>
 
