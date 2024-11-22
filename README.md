@@ -78,6 +78,11 @@
 </p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Szachii&show_icons=true&locale=en&theme=chartreuse-dark" alt="iscpatricio92" width="410"/>
 </p>
+<br/>
+<br/> 
+<br/>  
+<br/>
 
----
+
+------
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
