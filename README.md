@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi, I'm Tharuka Wickramaarachchi</h1>
-<h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
+<h3 align="center">A innovative fullstack developer | Animator | 3D Modler</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szachii&label=Profile%20views&color=0e75b6&style=flat" alt="szachii" /> </p>
 
@@ -67,3 +67,16 @@
 </div>  
 <br/>  
 <br/>
+
+
+## 🚥 Activity
+
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
+</p>
+ 
+<p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iscpatricio92&langs_count=8&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="iscpatricio92" />
+</p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=iscpatricio92&show_icons=true&locale=en&theme=chartreuse-dark" alt="iscpatricio92" width="410"/>
+</p>
