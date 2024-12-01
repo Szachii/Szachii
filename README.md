@@ -11,7 +11,7 @@
 
 ------
 
-- 🔭 I’m currently working on **Public transport booking system**
+- 🔭 I’m currently working on **Public transport seat booking system**
 
 - 🌱 I’m currently learning **React, Node.js, MongoDB, Express.js**
 
